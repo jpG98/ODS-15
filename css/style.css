@@ -1,0 +1,207 @@
+.funto{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, #3ee04e 0%, rgba(146, 242, 122, 0) 100%);
+}
+
+div{
+    background: rgba(133, 163, 133, 0.73);
+}
+
+.top1{
+    position: absolute;
+    width: 100%;
+    height:400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px 0px 100px 100px;
+    background: url(../imagens/funto.jpg);
+}
+
+.top11{
+    position: absolute;
+    width: 310px;
+    height: 350px;
+    left: 50px;
+    top: 33px;
+    background-color: rgba(245, 245, 245, 0.616);
+    border-radius: 25px;
+}
+
+.top12{
+    position: absolute;
+    width: 161px;
+    height: 161px;
+    left: 10px;
+    top: 5px;
+    background: url(../imagens/1515.png);
+    border-radius: 19px;
+    animation: top12 6s infinite;
+}
+
+@keyframes top12{
+    0%{left: 70px;}
+    25%{left: 135px;}
+    50%{left: 70px;}
+    75%{left: 10px;}
+    100%{left: 70px;}
+    
+}
+
+.textop12{
+    position: absolute;
+    width: 300px;
+    height: 150px;
+    left: 5px;
+    top: 180px;
+    background-color: rgba(240, 254, 255, 0);
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.top13{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 950px;
+    top: 50px;
+    background: url(../imagens/arvire2.png);
+    border-radius: 188.5px;
+}
+
+.top14{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 500px;
+    top: 50px;
+    border-radius: 100px;
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 112px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.363);
+}
+
+.meio1{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 54%;
+    top: 500px; 
+    border-radius: 100px 0px 0px 100px;
+    background: linear-gradient(268.06deg, #aef0ad 24.05%, rgba(217, 217, 217, 0) 98.36%);
+}
+
+.texme1{
+    position: absolute;
+    width: 600px;
+    height: 365px;
+    top: 35px;
+    left: 0;
+    border-radius: 100px 0px 0px 100px;
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: right;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.meio2{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 200px;
+    top: 550px;
+    border-radius: 150px;
+    background: url(../imagens/arvore.png);
+    animation: maio2 5s infinite;
+}
+
+@keyframes maio2{
+    0%{left: 200px;}
+    25%{left: 275px;}
+    50%{left: 200px;}
+    75%{left: 125px;}
+    100%{left: 200px;}
+}
+
+.meio3{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 0px;
+    top: 950px;
+    border-radius: 0px 100px 100px 0px;
+    background: linear-gradient(94.39deg, #aef0ad 22.35%, rgba(217, 217, 217, 0) 96.44%);
+}
+
+.texme3{
+    position: absolute;
+    width: 600px;
+    height: 365px;
+    left: 0px;
+    top: 35px;
+    border-radius: 0px 100px 100px 0px;
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.baixo1{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    left: 58%;
+    top: 1150px;
+    border-radius: 100px;
+    background: linear-gradient(0deg, #84e068dc 24.66%, rgba(217, 217, 217, 0) 103.14%);
+}
+
+.baixo12{
+    position: absolute;
+    width: 459px;
+    height: 274px;
+    left: 23px;
+    top:110px;
+    background: url(../imagens/ODS.png);
+    border-radius: 58px;
+    animation: baixo12 5s infinite;
+}
+
+@keyframes baixo12{
+    0%{top: 110px;}
+    25%{top: 60px;}
+    50%{top: 20px;}
+    75%{top: 60px;}
+    100%{top: 110px;}
+}
+
+.baixo2{
+    position: absolute;
+    width: 98%;
+    height: 200px;
+    left: 15px;
+    top: 1600px;
+    mix-blend-mode: normal;
+    background-color: #84e068dc;
+    border-radius: 100px 100px 0px 0px;
+}
