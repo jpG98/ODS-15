@@ -4,7 +4,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(180deg, #3ee04e 0%, rgba(146, 242, 122, 0) 100%);
+    background: linear-gradient(180deg, #87E279 28.46%, rgba(217, 217, 217, 0) 100%);
 }
 
 div{
@@ -100,10 +100,20 @@ div{
     position: absolute;
     width: 600px;
     height: 400px;
-    left: 54%;
+    left: 15px;
+    top: 0; 
+    border-radius: 100px 0px 0px 100px;
+    background-color: #aef0ad;
+}
+
+.meio12{
+    position: absolute;
+    width: 615px;
+    height: 415px;
+    left: 53%;
     top: 500px; 
     border-radius: 100px 0px 0px 100px;
-    background: linear-gradient(268.06deg, #aef0ad 24.05%, rgba(217, 217, 217, 0) 98.36%);
+    background-color: #ace795;
 }
 
 .texme1{
@@ -146,9 +156,19 @@ div{
     width: 600px;
     height: 400px;
     left: 0px;
+    top: 0px;
+    border-radius: 0px 100px 100px 0px;
+    background-color: #aef0ad;
+}
+
+.meio32{
+    position: absolute;
+    width: 615px;
+    height: 415px;
+    left: 0px;
     top: 950px;
     border-radius: 0px 100px 100px 0px;
-    background: linear-gradient(94.39deg, #aef0ad 22.35%, rgba(217, 217, 217, 0) 96.44%);
+    background-color:#ace795 ;
 }
 
 .texme3{
@@ -173,7 +193,7 @@ div{
     left: 58%;
     top: 1150px;
     border-radius: 100px;
-    background: linear-gradient(0deg, #84e068dc 24.66%, rgba(217, 217, 217, 0) 103.14%);
+    background-color: #ace795;
 }
 
 .baixo12{
@@ -202,6 +222,24 @@ div{
     left: 15px;
     top: 1600px;
     mix-blend-mode: normal;
-    background-color: #84e068dc;
+    background-color: #aef0ad;
     border-radius: 100px 100px 0px 0px;
+}
+
+.texbaix2{
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    width: 98%;
+    height: 200px;
+    border-radius: 100px 100px 0px 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #87e27900;
 }
