@@ -14,7 +14,7 @@ div{
 .top1{
     position: absolute;
     width: 100%;
-    height:400px;
+    height:450px;
     left: 0px;
     top: 0px;
     border-radius: 0px 0px 100px 100px;
@@ -24,7 +24,7 @@ div{
 .top11{
     position: absolute;
     width: 310px;
-    height: 350px;
+    height: 400px;
     left: 50px;
     top: 33px;
     background-color: rgba(245, 245, 245, 0.616);
@@ -56,7 +56,7 @@ div{
     width: 300px;
     height: 150px;
     left: 5px;
-    top: 180px;
+    top: 210px;
     background-color: rgba(240, 254, 255, 0);
     font-family: 'CantoraOne';
     font-style: normal;
@@ -110,7 +110,7 @@ div{
     position: absolute;
     width: 615px;
     height: 415px;
-    left: 53%;
+    left:61%;
     top: 500px; 
     border-radius: 100px 0px 0px 100px;
     background-color: #ace795;
@@ -191,7 +191,7 @@ div{
     width: 500px;
     height: 400px;
     left: 58%;
-    top: 1150px;
+    top: 950px;
     border-radius: 100px;
     background-color: #ace795;
 }
@@ -218,9 +218,9 @@ div{
 .baixo2{
     position: absolute;
     width: 98%;
-    height: 200px;
+    height: 350px;
     left: 15px;
-    top: 1600px;
+    top: 1450px;
     mix-blend-mode: normal;
     background-color: #aef0ad;
     border-radius: 100px 100px 0px 0px;
@@ -243,3 +243,147 @@ div{
     text-align: center;
     background-color: #87e27900;
 }
+
+.b1{
+    position: absolute;
+    width: 210px;
+    height: 310px;
+    top: 30px;
+    left: 50px;
+    border-radius: 50px;
+    background-color: #1f471e;
+}
+
+.b12{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 0px;
+    left: 10px;
+    border-radius: 50px;
+    background-color: #74e672;
+}
+
+.textob1{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 100px 100px 0px;
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.b2{
+    position: absolute;
+    width: 210px;
+    height: 310px;
+    top: 30px;
+    left: 300px;
+    border-radius: 50px;
+    background-color: #1f471e;
+}
+
+.b22{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 0px;
+    left: 10px;
+    border-radius: 50px;
+    background-color: #74e672;
+}
+
+.textob2{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 100px 100px 0px;
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.b3{
+    position: absolute;
+    width: 210px;
+    height: 310px;
+    top: 30px;
+    left: 1050px;
+    border-radius: 50px;
+    background-color: #1f471e;
+}
+
+.b32{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 0px;
+    left: 10px;
+    border-radius: 50px;
+    background-color: #74e672;
+}
+
+.textob3{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 100px 100px 0px;
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.b4{
+    position: absolute;
+    width: 210px;
+    height: 310px;
+    top: 30px;
+    left: 1300px;
+    border-radius: 50px;
+    background-color: #1f471e;
+}
+
+.b42{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 0px;
+    left: 10px;
+    border-radius: 50px;
+    background-color: #74e672;
+}
+
+.textob4{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 100px 100px 0px;
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+
+
+
