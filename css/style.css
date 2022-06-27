@@ -72,9 +72,26 @@ div{
     position: absolute;
     width: 250px;
     height: 250px;
-    left: 950px;
-    top: 50px;
+    left: 0px;
+    top: 10px;
     background: url(../imagens/arvire2.png);
+    border-radius: 188.5px;
+    animation: top13 5s infinite;
+}
+
+@keyframes top13 {
+    0%{left: 0px;}
+    50%{left: 150px;}
+    100%{left: 0px;}
+}
+
+.top23{
+    position: absolute;
+    width: 400px;
+    height: 270px;
+    left: 1050px;
+    top: 50px;
+    background: #bceb965e;
     border-radius: 188.5px;
 }
 
@@ -82,7 +99,7 @@ div{
     position: absolute;
     width: 250px;
     height: 250px;
-    left: 500px;
+    left: 650px;
     top: 50px;
     border-radius: 100px;
     font-family: 'CantoraOne';
@@ -93,7 +110,7 @@ div{
     display: flex;
     align-items: center;
     text-align: center;
-    background-color: rgba(240, 248, 255, 0.363);
+    background-color: rgba(124, 223, 168, 0.356);
 }
 
 .meio1{
@@ -218,12 +235,12 @@ div{
 .baixo2{
     position: absolute;
     width: 98%;
-    height: 350px;
+    height: 950px;
     left: 15px;
     top: 1450px;
     mix-blend-mode: normal;
     background-color: #aef0ad;
-    border-radius: 100px 100px 0px 0px;
+    border-radius: 100px
 }
 
 .texbaix2{
@@ -268,14 +285,14 @@ div{
     position: absolute;
     width: 200px;
     height: 300px;
-    top: 0px;
+    top: 5px;
     left: 0px;
     border-radius: 0px 100px 100px 0px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 17px;
+    line-height: 17px;
     background-color: rgba(240, 248, 255, 0);
 }
 
@@ -303,14 +320,14 @@ div{
     position: absolute;
     width: 200px;
     height: 300px;
-    top: 0px;
+    top: 5px;
     left: 0px;
     border-radius: 0px 100px 100px 0px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 15px;
+    line-height: 16px;
     background-color: rgba(240, 248, 255, 0);
 }
 
@@ -338,14 +355,14 @@ div{
     position: absolute;
     width: 200px;
     height: 300px;
-    top: 0px;
+    top: 5px;
     left: 0px;
     border-radius: 0px 100px 100px 0px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 24px;
     background-color: rgba(240, 248, 255, 0);
 }
 
@@ -373,17 +390,54 @@ div{
     position: absolute;
     width: 200px;
     height: 300px;
-    top: 0px;
+    top: 5px;
     left: 0px;
     border-radius: 0px 100px 100px 0px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 23px;
+    line-height: 26px;
     background-color: rgba(240, 248, 255, 0);
 }
 
+.obj1{
+    position: absolute;
+    width: 1037px;
+    height: 527px;
+    top: 400px;
+    left: 270px;
+    border-radius: 100px;
+    background-color: #1f471e;
+}
+
+.obj{
+    position: absolute;
+    width: 1024px;
+    height: 512px;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background: url(../imagens/odj.png);
+}
+
+.meio{
+    position: absolute;
+    width: 440px;
+    height: 310px;
+    top: 30px;
+    left: 570px;
+    border-radius: 50px;
+    background-color: #1f471e;
+}
 
 
-
+.fim{
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    top: 2400px;
+    left: 0;
+    border-radius: 100px 100px 0px 0px;
+    background-color: #aef0ad00;
+}
