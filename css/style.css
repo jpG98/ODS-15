@@ -72,27 +72,55 @@ div{
     position: absolute;
     width: 250px;
     height: 250px;
-    left: 0px;
-    top: 10px;
+    left: 5px;
+    top: 5px;
     background: url(../imagens/arvire2.png);
     border-radius: 188.5px;
-    animation: top13 5s infinite;
+    border: 3px solid #ace795;
 }
 
 @keyframes top13 {
-    0%{left: 0px;}
+    0%{left: 5px;}
     50%{left: 150px;}
-    100%{left: 0px;}
+    100%{left: 5px;}
 }
 
 .top23{
     position: absolute;
-    width: 400px;
-    height: 270px;
-    left: 1050px;
-    top: 50px;
+    width: 410px;
+    height: 265px;
+    left: 20px;
+    top: 20px;
     background: #bceb965e;
     border-radius: 188.5px;
+}
+
+.top223{
+    position: absolute;
+    width: 450px;
+    height: 330px;
+    left: 1030px;
+    top: 40px;
+    background-color: rgba(240, 254, 255, 0);
+}
+
+.texto223{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    left: 200px;
+    top: 300px;
+    background-color: rgba(240, 254, 255, 0);
+    font-family: 'CantoraOne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .top14{
@@ -110,7 +138,8 @@ div{
     display: flex;
     align-items: center;
     text-align: center;
-    background-color: rgba(124, 223, 168, 0.356);
+    background-color: rgba(124, 223, 169, 0);
+    text-shadow: 2px 2px 5px rgb(186, 238, 155);
 }
 
 .meio1{
@@ -127,10 +156,16 @@ div{
     position: absolute;
     width: 615px;
     height: 415px;
-    left:61%;
+    left: 968px;
     top: 500px; 
     border-radius: 100px 0px 0px 100px;
     background-color: #ace795;
+    animation: meio 5s ;
+}
+
+@keyframes meio {
+    from{top: 500px; left: +1583px ;}
+    to{top: 500px; left: 968px;}
 }
 
 .texme1{
@@ -158,6 +193,7 @@ div{
     border-radius: 150px;
     background: url(../imagens/arvore.png);
     animation: maio2 5s infinite;
+    border: 3px solid #ace795;
 }
 
 @keyframes maio2{
@@ -179,7 +215,7 @@ div{
 }
 
 .meio32{
-    position: absolute;
+    position: relative;
     width: 615px;
     height: 415px;
     left: 0px;
