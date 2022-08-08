@@ -51,8 +51,8 @@ div{
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 25px;
+    line-height: 25px;
     display: flex;
     align-items: center;
     text-align: center;
@@ -303,8 +303,8 @@ div{
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
-    line-height: 17px;
+    font-size: 20px;
+    line-height: 20px;
     background-color: rgba(240, 248, 255, 0);
 }
 
@@ -446,7 +446,7 @@ div{
 .fim{
     position: absolute;
     width: 100%;
-    height: 300px;
+    height: 150px;
     top: 2420px;
     left: 0;
     background-color: #1f471e;
@@ -455,7 +455,7 @@ div{
 #instagram{
     position: absolute;
     height: 50px;
-    top: 130px;
+    top: 90px;
     left: 1450px;
 }
 
@@ -465,7 +465,7 @@ div{
 
 #onu{
     position: absolute;
-    height: 250px;
+    height: 100px;
     top: 30px;
     left: 100px;
 }
