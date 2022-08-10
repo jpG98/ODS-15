@@ -157,13 +157,13 @@ div{
     position: absolute;
     width: 590px;
     height: 400px;
-    top: 35px;
+    top: 45px;
     left: 0;
     border-radius: 100px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 25px;
     line-height: 30px;
     text-align: right;
     background-color: rgba(240, 248, 255, 0);
@@ -211,7 +211,7 @@ div{
 
 .texme3{
     position: absolute;
-    width: 600px;
+    width: 590px;
     height: 365px;
     left: 15px;
     top: 35px;
@@ -219,7 +219,7 @@ div{
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 23px;
     line-height: 40px;
     background-color: rgba(240, 248, 255, 0);
 }
@@ -297,14 +297,14 @@ div{
     position: absolute;
     width: 200px;
     height: 300px;
-    top: 5px;
+    top: 15px;
     left: 0px;
     border-radius: 0px 100px 100px 0px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 23px;
+    line-height: 25px;
     background-color: rgba(240, 248, 255, 0);
 }
 
@@ -332,14 +332,14 @@ div{
     position: absolute;
     width: 200px;
     height: 300px;
-    top: 5px;
+    top: 15px;
     left: 0px;
     border-radius: 0px 100px 100px 0px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
-    line-height: 17px;
+    font-size: 23px;
+    line-height: 26px;
     background-color: rgba(240, 248, 255, 0);
 }
 
@@ -367,13 +367,13 @@ div{
     position: absolute;
     width: 200px;
     height: 300px;
-    top: 5px;
+    top: 15px;
     left: 0px;
     border-radius: 0px 100px 100px 0px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 23px;
     line-height: 24px;
     background-color: rgba(240, 248, 255, 0);
 }
@@ -402,14 +402,14 @@ div{
     position: absolute;
     width: 200px;
     height: 300px;
-    top: 5px;
+    top: 15px;
     left: 0px;
     border-radius: 0px 100px 100px 0px;
     font-family: 'CantoraOne';
     font-style: normal;
     font-weight: 400;
-    font-size: 23px;
-    line-height: 26px;
+    font-size: 22px;
+    line-height: 23px;
     background-color: rgba(240, 248, 255, 0);
 }
 
